@@ -82,7 +82,6 @@ The command will package and deploy your application to AWS, with a series of pr
 
 You can find your API Gateway Endpoint URL in the output values displayed after deployment.
 
-### Testing
 
 # Appendix
 
