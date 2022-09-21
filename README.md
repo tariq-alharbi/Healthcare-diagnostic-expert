@@ -121,7 +121,3 @@ If it's already installed, run the following command to ensure it's the latest v
 choco upgrade golang
 ```
 
-
-=======
-# Healthcare-diagnostic-expert
->>>>>>> 9a48df2704d2efd979cf29a5674fd80f078fa2ee
