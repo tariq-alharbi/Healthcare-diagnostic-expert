@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # login_register
 
 This is a sample template for login_register - Below is a brief explanation of what we have generated for you:
@@ -138,3 +139,6 @@ Here are a few ideas that you can use to get more acquainted as to how this over
 Next, you can use the following resources to know more about beyond hello world samples and how others structure their Serverless applications:
 
 * [AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/)
+=======
+# Healthcare-diagnostic-expert
+>>>>>>> 9a48df2704d2efd979cf29a5674fd80f078fa2ee
