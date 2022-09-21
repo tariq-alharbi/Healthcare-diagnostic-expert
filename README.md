@@ -25,7 +25,7 @@ This is a sample template for login_register - Below is a brief explanation of w
 ├── getTest                     <-- Source code for a lambda function
 │   ├── app.py                  <-- Lambda function code
 │   ├── model.py                <-- the code that interact with ML Model
-│   ├── Dockerfile              <-- Docker file for to crete the image
+│   ├── Dockerfile              <-- Docker file for creating the image
 │   ├── requirements.txt        <--file listing all the dependencies for the docker image
 │   └── DecisionTree_model.sav  <-- ML model
 └── template.yaml
