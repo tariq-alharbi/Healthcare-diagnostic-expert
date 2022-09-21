@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # Healthcare-diagnostic-expert
 
-This is a sample template for login_register - Below is a brief explanation of what we have generated for you:
 
 ```bash
 .
