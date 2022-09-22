@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Healthcare-diagnostic-expert
 
 
